@@ -6,11 +6,9 @@
 <p align="center" style="font-weight: bold; font-size: 20px; line-height: 1;">A person very passionate about programming</p>
 
 <div align="center">
-🔭 I am currently working as a freelance programmer
-
-📖 I am currently studying embedded programming, and computer vision
-
-🌱 I have a very special interest in robotics and computers and I really want to work with it
+<p style="line-height: 0.5;">🔭 I am currently working as a freelance programmer</p>
+<p style="line-height: 0.5;">📖 I am currently studying embedded programming, and computer vision </p>
+<p style="line-height: 0.5;">🌱 I have a very special interest in robotics and computers and I really want to work with it </p>
 </div>
 
 <div></div>
