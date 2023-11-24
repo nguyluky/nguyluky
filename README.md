@@ -1,5 +1,5 @@
 
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nguyluky.nguyluky">
 <img width="100%" height="300px" src="Banner.gif">
 
 ---
@@ -14,11 +14,17 @@ I am currently studying embedded programming, and computer vision
 I have a very special interest in robotics and computers and I really want to work with it 
 </div>
 
-<div></div>
+<div align="center">
+    <a href="https://mail.google.com/mail/u/0/?to=nguyluky@gmail.com&fs=1&tf=cm">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>
+    <a href="https://discord.com/users/677450491579465742">
+        <img src="https://img.shields.io/badge/discord-0077B5?style=for-the-badge&logo=discord&logoColor=white"/>
+    </a>
+</div>
 
 ---
 <details>
-
 <summary><span style="font-weight: bold; font-size: 20px;">❖ Languages and tool</span></summary>
 <img align="center" src="https://skillicons.dev/icons?i=py,cpp,html,css,js,nodejs,flask,react,electron,tensorflow,vscode,visualstudio" />
 </details>
