@@ -2,13 +2,16 @@
 
 <img width="100%" height="300px" src="Banner.gif">
 
-<p align="center" style="font-weight: bold; font-size: 40px; line-height: 1" >Hi there! I'm nguyluky👋 </p>
-<p align="center" style="font-weight: bold; font-size: 20px; line-height: 1;">A person very passionate about programming</p>
+---
+<h3 align="center" style="font-weight: bold; font-size: 40px; line-height: 1">Hi there! I'm nguyluky👋 </h3>
+<h3 align="center"> A person very passionate about programming</h3>
 
 <div align="center">
-<p style="line-height: 0.5;">🔭 I am currently working as a freelance programmer</p>
-<p style="line-height: 0.5;">📖 I am currently studying embedded programming, and computer vision </p>
-<p style="line-height: 0.5;">🌱 I have a very special interest in robotics and computers and I really want to work with it </p>
+I am currently working as a freelance programmer
+
+I am currently studying embedded programming, and computer vision 
+
+I have a very special interest in robotics and computers and I really want to work with it 
 </div>
 
 <div></div>
