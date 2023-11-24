@@ -3,7 +3,7 @@
 <img width="100%" height="300px" src="Banner.gif">
 
 ---
-<h3 align="center" style="font-weight: bold; font-size: 40px; line-height: 1">Hi there! I'm nguyluky👋 </h3>
+<h1 align="center" style="font-weight: bold; font-size: 40px; line-height: 1">Hi there! I'm nguyluky👋 </h1>
 <h3 align="center"> A person very passionate about programming</h3>
 
 <div align="center">
