@@ -1,6 +1,7 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nguyluky.nguyluky">
-<img width="100%" src="Banner.gif">
+
+<img src="banner.svg">
 
 ---
 <h1 align="center" style="font-weight: bold; font-size: 40px; line-height: 1">Hi there! I'm nguyluky👋 </h1>
