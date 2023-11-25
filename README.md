@@ -1,6 +1,6 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nguyluky.nguyluky">
-<img width="100%" height="300px" src="Banner.gif">
+<img width="100%" src="Banner.gif">
 
 ---
 <h1 align="center" style="font-weight: bold; font-size: 40px; line-height: 1">Hi there! I'm nguyluky👋 </h1>
@@ -33,7 +33,7 @@ I have a very special interest in robotics and computers and I really want to wo
 
 <details>
 <summary><span style="font-weight: bold; font-size: 20px;">❖ Github stats summary</span></summary>
-<img align="left" width="47%" style="padding: 0 10px;" src="https://github-readme-stats.vercel.app/api?username=nguyluky&show_icons=true&theme=radical">
+<img align="left" width="45%" style="padding: 2.5%;" src="https://github-readme-stats.vercel.app/api?username=nguyluky&show_icons=true&theme=radical">
 
-<img align="left" width="47%" style="padding: 0 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyluky&layout=compact">
+<img align="left" width="45%" style="padding: 2.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyluky&layout=compact">
 </details>
